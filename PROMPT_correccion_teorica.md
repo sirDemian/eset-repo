@@ -169,6 +169,7 @@ Esta sección se completa con las respuestas a preguntas recurrentes:
 | ¿Introducir `Sacar` en Unidad 1? | **Sí**, agregar el concepto | Unidad 1 |
 | ¿Usar "operación total/parcial" desde Unidad 1? | **Sí**, agregar terminología y "precondición" | Unidad 1 |
 | ¿"Argumento" vs "parámetro" son distintos? | **Intercambiables por ahora**. Usar "argumento" hasta Unidad 4, donde se introduce "parámetro" formalmente. En Unidad 4 hacer la distinción explícita. | Unidad 1-3: argumento / Unidad 4+: parámetro |
+| ¿Mencionar que procedimientos no retornan valores? | **No**. Los alumnos no conocen funciones ni el concepto de "devolver valores" todavía. No anticipar conceptos que no tienen marco de referencia. | Unidad 2 (ignorar) |
 
 ---
 

@@ -14,6 +14,7 @@ Tu salida debe ser un **INFORME** para decidir luego qué cambios hacer.
 
 ## REGLAS GENERALES (OBLIGATORIAS)
 
+- **Siempre re-extraer el contenido del archivo antes de revisar.** Nunca reutilizar contenido de una extracción anterior. El docente puede haber aplicado cambios manualmente entre revisiones. Cada revisión debe basarse en el estado actual del archivo.
 - No reescribas ni edites el contenido del documento teórico.
 - No "mejores" redacción en el texto original. Solo detectá: faltantes, inconsistencias, desalineaciones, ambigüedades, orden didáctico, cobertura.
 - Si no podés verificar algo porque falta evidencia en los documentos provistos, marcá **"No verificable con el material disponible"**.
