@@ -1,2 +1,5 @@
 # LibreOffice lock files
 .~lock.*
+
+# Carpeta digitales
+digitales/
